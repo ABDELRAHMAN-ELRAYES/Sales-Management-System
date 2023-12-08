@@ -1,0 +1,42 @@
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.exe
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.deps.json
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.runtimeconfig.json
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.dll
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.pdb
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.AssemblyInfoInputs.cache
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.AssemblyInfo.cs
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.csproj.CoreCompileInputs.cache
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.dll
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\refint\sales order app project.dll
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.pdb
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.genruntimeconfig.cache
+D:\projects\real projects\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\ref\sales order app project.dll
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.exe
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.deps.json
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.runtimeconfig.json
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.dll
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.pdb
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.AssemblyInfoInputs.cache
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.AssemblyInfo.cs
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.csproj.CoreCompileInputs.cache
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.dll
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\refint\sales order app project.dll
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.pdb
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.genruntimeconfig.cache
+D:\projects\k_k\OOP csharp\sales order application\sales order app project\obj\Debug\net7.0\ref\sales order app project.dll
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.exe
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.deps.json
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.runtimeconfig.json
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.dll
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\bin\Debug\net7.0\sales order app project.pdb
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.AssemblyInfoInputs.cache
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.AssemblyInfo.cs
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.csproj.CoreCompileInputs.cache
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.dll
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\refint\sales order app project.dll
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.pdb
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\sales order app project.genruntimeconfig.cache
+D:\projects\k_k\OOP csharp\SalesOrderApp\sales order application\sales order app project\obj\Debug\net7.0\ref\sales order app project.dll
